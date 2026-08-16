@@ -1,4 +1,4 @@
-# SSIS Code‑Based Transformation
+# SSIS Code‑Based Transformations
 
 A complete SSIS implementation demonstrating how to perform code‑based data transformations using a **Script Task (C#)**. 
 This project shows how SSIS can integrate external APIs, deserialize JSON, validate incoming data, and perform high‑performance bulk inserts into SQL Server.
