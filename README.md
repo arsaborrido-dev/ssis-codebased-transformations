@@ -62,7 +62,11 @@ You must run the API locally before executing the SSIS package.
 - /assets      	 --> Screenshots
 
 ## Screenshots
-
+Screenshots are available in `/assets`:
+- ScriptMain Main Method (ScriptMain_Main.png)
+- ScriptMain CallApi Method (ScriptMain_CallApi.png)
+- ScriptMain InsertToDatabase Method (ScriptMain_InsertToDatabase.png)
+  
 ## How to Run
 
 - Clone the Minimal API repository  
